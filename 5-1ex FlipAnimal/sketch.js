@@ -3,7 +3,7 @@
  * IGME-101: 5-1 ex Flip Animals
  * Description and interaction instructions
  */
- 
+
 "use strict"; //catch some common coding errors
 
 /* Global variables */
@@ -20,6 +20,7 @@ function setup() {
   loop2();
   loop3();
 }
+
 /**
  * draw :
  */
@@ -34,7 +35,7 @@ function loop1(){
 
 }
   
- 
+
 function loop2(){
 
   for (let m = 515; m >= 500; m -= .5) {
