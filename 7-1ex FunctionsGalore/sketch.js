@@ -6,28 +6,20 @@
 "use strict"; //catch some common coding errors
 
 /* Global variables */
-let imgAria;
-let imgJav;
 
-function preload(){
-    imgAria = loadImage("media/Harris_Aria.jpg");
-    imgJav = loadImage("media/jajks_sk.png");
-    console.log ("start loading",imgAria, imgJav); 
-}
 /**
  * setup :
  */
 function setup() {
+function compoundShape(){}
+
 }
 /**
  * draw :
  */
 
 function draw() {
-background("beige");
 
-  //fill navy
-fill("navy");
-
-
+    if (compoundShape) ;
 }
+
