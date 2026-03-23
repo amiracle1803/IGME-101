@@ -11,7 +11,6 @@
  * setup :
  */
 function setup() {
-function compoundShape(){}
 
 }
 /**
