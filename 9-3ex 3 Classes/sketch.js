@@ -60,6 +60,10 @@ Candy is like a super small white circle.
 **/
 
 /* Global variables */
+let pac;
+let ghost;
+let candy;
+
 
 /**
  * setup :
@@ -83,7 +87,16 @@ function setup() {
  * draw :
  */
 function draw() {
+  candy = new Candy(" insert proper parameter");
+
+  ghost = new Ghost ();
+  pac = new Pacman ();
+
+  // if group 
+  // this.state 
+  // else if 
 
 }
+
 
 // by : amir el

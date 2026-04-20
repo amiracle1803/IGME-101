@@ -78,10 +78,11 @@ function setup() {
 
 class PacMan{
   constructor(){
-    this.pacHeight = 15;
-    this.propertyname = someValue;
-    this.color = "Yellow";
-    this.propertyname = someValue;
+    // needs 2 state open and close mouth 
+    // need to be a circle,
+    // IT POSITION X,Y 
+    // needs to be yellow
+    
 
 
   }
